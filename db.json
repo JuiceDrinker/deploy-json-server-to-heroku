@@ -1,7 +1,549 @@
 {
-  "medals_by_year":[{"year":2016,"city":"Rio de Janeiro","gold":8,"silver":12,"bronze":8},{"year":1936,"city":"Berlin","gold":9,"silver":13,"bronze":5},{"year":1988,"city":"Seoul","gold":6,"silver":4,"bronze":4},{"year":1996,"city":"Atlanta","gold":13,"silver":10,"bronze":12},{"year":2000,"city":"Sydney","gold":13,"silver":8,"bronze":13},{"year":1984,"city":"Los Angeles","gold":14,"silver":6,"bronze":12},{"year":1992,"city":"Barcelona","gold":6,"silver":5,"bronze":8},{"year":2004,"city":"Athina","gold":10,"silver":11,"bronze":11},{"year":2008,"city":"Beijing","gold":8,"silver":9,"bronze":10},{"year":1928,"city":"Amsterdam","gold":7,"silver":6,"bronze":7},{"year":1932,"city":"Los Angeles","gold":12,"silver":12,"bronze":12},{"year":1948,"city":"London","gold":9,"silver":12,"bronze":10},{"year":2012,"city":"London","gold":8,"silver":9,"bronze":11},{"year":1968,"city":"Mexico City","gold":3,"silver":4,"bronze":9},{"year":1976,"city":"Montreal","gold":2,"silver":7,"bronze":4},{"year":1920,"city":"Antwerpen","gold":14,"silver":6,"bronze":5},{"year":1912,"city":"Stockholm","gold":5,"silver":1,"bronze":2},{"year":1924,"city":"Paris","gold":8,"silver":3,"bronze":5},{"year":1960,"city":"Roma","gold":13,"silver":10,"bronze":12},{"year":1964,"city":"Tokyo","gold":10,"silver":10,"bronze":7},{"year":1956,"city":"Melbourne","gold":8,"silver":5,"bronze":8},{"year":1956,"city":"Stockholm","gold":0,"silver":2,"bronze":1},{"year":1952,"city":"Helsinki","gold":7,"silver":9,"bronze":4},{"year":1972,"city":"Munich","gold":5,"silver":3,"bronze":10},{"year":1908,"city":"London","gold":2,"silver":2,"bronze":0},{"year":1980,"city":"Moskva","gold":8,"silver":3,"bronze":4},{"year":1906,"city":"Athina","gold":3,"silver":5,"bronze":1},{"year":1900,"city":"Paris","gold":3,"silver":2,"bronze":0}],
-  "top_fencing":[{"gold":151,"silver":136,"bronze":72},{"name":"Maria Valentina Vezzali","year":1996,"bronze":0,"gold":0,"silver":1},{"name":"Maria Valentina Vezzali","year":1996,"bronze":0,"gold":1,"silver":0},{"name":"Maria Valentina Vezzali","year":2000,"bronze":0,"gold":1,"silver":0},{"name":"Maria Valentina Vezzali","year":2000,"bronze":0,"gold":1,"silver":0},{"name":"Maria Valentina Vezzali","year":2004,"bronze":0,"gold":1,"silver":0},{"name":"Maria Valentina Vezzali","year":2008,"bronze":0,"gold":1,"silver":0},{"name":"Maria Valentina Vezzali","year":2008,"bronze":1,"gold":0,"silver":0},{"name":"Maria Valentina Vezzali","year":2012,"bronze":1,"gold":0,"silver":0},{"name":"Maria Valentina Vezzali","year":2012,"bronze":0,"gold":1,"silver":0},{"name":"Giuseppe Delfino","year":1952,"bronze":0,"gold":1,"silver":0},{"name":"Giuseppe Delfino","year":1956,"bronze":0,"gold":0,"silver":1},{"name":"Giuseppe Delfino","year":1956,"bronze":0,"gold":1,"silver":0},{"name":"Giuseppe Delfino","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Giuseppe Delfino","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Giuseppe Delfino","year":1964,"bronze":0,"gold":0,"silver":1},{"name":"Giovanna Trillini","year":1992,"bronze":0,"gold":1,"silver":0},{"name":"Giovanna Trillini","year":1992,"bronze":0,"gold":1,"silver":0},{"name":"Giovanna Trillini","year":1996,"bronze":1,"gold":0,"silver":0},{"name":"Giovanna Trillini","year":1996,"bronze":0,"gold":1,"silver":0},{"name":"Giovanna Trillini","year":2000,"bronze":1,"gold":0,"silver":0},{"name":"Giovanna Trillini","year":2000,"bronze":0,"gold":1,"silver":0},{"name":"Giovanna Trillini","year":2004,"bronze":0,"gold":0,"silver":1},{"name":"Giovanna Trillini","year":2008,"bronze":1,"gold":0,"silver":0},{"name":"Aldo Nadi","year":1920,"bronze":0,"gold":1,"silver":0},{"name":"Aldo Nadi","year":1920,"bronze":0,"gold":1,"silver":0},{"name":"Aldo Nadi","year":1920,"bronze":0,"gold":0,"silver":1},{"name":"Aldo Nadi","year":1920,"bronze":0,"gold":1,"silver":0},{"name":"Alberto Pellegrino","year":1956,"bronze":0,"gold":1,"silver":0},{"name":"Alberto Pellegrino","year":1960,"bronze":0,"gold":0,"silver":1},{"name":"Alberto Pellegrino","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Alberto Pellegrino","year":1964,"bronze":0,"gold":0,"silver":1},{"name":"Elisa Di Francisca","year":2012,"bronze":0,"gold":1,"silver":0},{"name":"Elisa Di Francisca","year":2012,"bronze":0,"gold":1,"silver":0},{"name":"Elisa Di Francisca","year":2016,"bronze":0,"gold":0,"silver":1},{"name":"Francesca Bortolozzi-Borella","year":1988,"bronze":0,"gold":0,"silver":1},{"name":"Francesca Bortolozzi-Borella","year":1992,"bronze":0,"gold":1,"silver":0},{"name":"Francesca Bortolozzi-Borella","year":1996,"bronze":0,"gold":1,"silver":0},{"name":"Andrea Cassar","year":2004,"bronze":1,"gold":0,"silver":0},{"name":"Andrea Cassar","year":2004,"bronze":0,"gold":1,"silver":0},{"name":"Andrea Cassar","year":2012,"bronze":0,"gold":1,"silver":0}],
-  "top_cycling":[{"gold":70,"silver":34,"bronze":20},{"name":"Sergio Bianchetto","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Sergio Bianchetto","year":1964,"bronze":0,"gold":0,"silver":1},{"name":"Sergio Bianchetto","year":1964,"bronze":0,"gold":1,"silver":0},{"name":"Antonella Bellutti","year":1996,"bronze":0,"gold":1,"silver":0},{"name":"Antonella Bellutti","year":2000,"bronze":0,"gold":1,"silver":0},{"name":"Paola Pezzo","year":1996,"bronze":0,"gold":1,"silver":0},{"name":"Paola Pezzo","year":2000,"bronze":0,"gold":1,"silver":0},{"name":"Sante Giovanni Gaiardoni","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Sante Giovanni Gaiardoni","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Franco Testa","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Franco Testa","year":1964,"bronze":0,"gold":0,"silver":1},{"name":"Giovanni Pettenella","year":1964,"bronze":0,"gold":1,"silver":0},{"name":"Giovanni Pettenella","year":1964,"bronze":0,"gold":0,"silver":1},{"name":"Livio Trap","year":1960,"bronze":0,"gold":0,"silver":1},{"name":"Livio Trap","year":1960,"bronze":0,"gold":1,"silver":0},{"name":"Pierfranco Vianelli","year":1968,"bronze":0,"gold":1,"silver":0},{"name":"Pierfranco Vianelli","year":1968,"bronze":1,"gold":0,"silver":0}],
-  "top_gymnastics":[{"gold":68,"silver":18,"bronze":14},{"name":"Franco Menichelli","year":1960,"bronze":1,"gold":0,"silver":0},{"name":"Franco Menichelli","year":1960,"bronze":1,"gold":0,"silver":0},{"name":"Franco Menichelli","year":1964,"bronze":0,"gold":1,"silver":0},{"name":"Franco Menichelli","year":1964,"bronze":1,"gold":0,"silver":0},{"name":"Franco Menichelli","year":1964,"bronze":0,"gold":0,"silver":1},{"name":"Jury Dimitri Chechi","year":1996,"bronze":0,"gold":1,"silver":0},{"name":"Jury Dimitri Chechi","year":2004,"bronze":1,"gold":0,"silver":0},{"name":"Igor Cassina","year":2004,"bronze":0,"gold":1,"silver":0},{"name":"Giovanni Carminucci","year":1960,"bronze":1,"gold":0,"silver":0},{"name":"Giovanni Carminucci","year":1960,"bronze":0,"gold":0,"silver":1},{"name":"Angelo Vicardi","year":1960,"bronze":1,"gold":0,"silver":0},{"name":"Matteo Morandi","year":2012,"bronze":1,"gold":0,"silver":0},{"name":"Pasquale Carminucci","year":1960,"bronze":1,"gold":0,"silver":0}],
-  "medals_by_sport":[{"sport":"Fencing","gold":151,"silver":136,"bronze":72},{"sport":"Cycling","gold":70,"silver":34,"bronze":20},{"sport":"Gymnastics","gold":68,"silver":18,"bronze":14},{"sport":"Water Polo","gold":46,"silver":37,"bronze":37},{"sport":"Rowing","gold":36,"silver":58,"bronze":51},{"sport":"Athletics","gold":19,"silver":18,"bronze":35},{"sport":"Shooting","gold":16,"silver":16,"bronze":11},{"sport":"Boxing","gold":15,"silver":15,"bronze":17},{"sport":"Football","gold":14,"silver":0,"bronze":34},{"sport":"Equestrianism","gold":10,"silver":16,"bronze":20},{"sport":"Canoeing","gold":8,"silver":9,"bronze":6},{"sport":"Wrestling","gold":7,"silver":4,"bronze":10},{"sport":"Sailing","gold":7,"silver":2,"bronze":10},{"sport":"Art Competitions","gold":5,"silver":7,"bronze":2},{"sport":"Swimming","gold":5,"silver":5,"bronze":17},{"sport":"Weightlifting","gold":5,"silver":5,"bronze":5},{"sport":"Archery","gold":4,"silver":6,"bronze":5},{"sport":"Judo","gold":4,"silver":4,"bronze":7},{"sport":"Modern Pentathlon","gold":4,"silver":4,"bronze":5},{"sport":"Diving","gold":3,"silver":6,"bronze":3},{"sport":"Taekwondo","gold":1,"silver":1,"bronze":1},{"sport":"Volleyball","gold":0,"silver":36,"bronze":36},{"sport":"Basketball","gold":0,"silver":24,"bronze":0},{"sport":"Rhythmic Gymnastics","gold":0,"silver":6,"bronze":6},{"sport":"Beach Volleyball","gold":0,"silver":2,"bronze":0},{"sport":"Tennis","gold":0,"silver":0,"bronze":1}]
+  "medals_by_year": [
+    {
+      "year": 2016,
+      "city": "Rio de Janeiro",
+      "gold": 8,
+      "silver": 12,
+      "bronze": 8,
+      "flag": "https://www.countryflags.io/br/flat/64.png",
+      "img": "https://www.goldentulip.com/styles/gt_content_small/public/2018-05/iStock-458256315.jpg"
+    },
+    { "year": 1936, "city": "Berlin", "gold": 9, "silver": 13, "bronze": 5 , "flag": "https://www.countryflags.io/de/flat/64.png", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Catedral_de_Berl%C3%ADn_%28Alemania%29.jpg/220px-Catedral_de_Berl%C3%ADn_%28Alemania%29.jpg"},
+    { "year": 1988, "city": "Seoul", "gold": 6, "silver": 4, "bronze": 4 , "flag": "https://www.countryflags.io/kr/flat/64.png", "img": "https://pix10.agoda.net/hotelImages/206/2066635/2066635_17033008060052019080.jpg?s=1024x768"},
+    { "year": 1996, "city": "Atlanta", "gold": 13, "silver": 10, "bronze": 12 , "flag": "https://www.countryflags.io/us/flat/64.png", "img": "https://www.avanan.com/hubfs/Images/Events%20Conferences/Data%20Connectors%202020/ATL.jpg"},
+    { "year": 2000, "city": "Sydney", "gold": 13, "silver": 8, "bronze": 13 , "flag": "https://www.countryflags.io/au/flat/64.png", "img": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/6e/7e.jpg"},
+    {
+      "year": 1984,
+      "city": "Los Angeles",
+      "gold": 14,
+      "silver": 6,
+      "bronze": 12, "flag": "https://www.countryflags.io/us/flat/64.png", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Los_Angeles%2C_Winter_2016.jpg/1200px-Los_Angeles%2C_Winter_2016.jpg"
+    },
+    { "year": 1992, "city": "Barcelona", "gold": 6, "silver": 5, "bronze": 8, "flag": "https://www.countryflags.io/es/flat/64.png", "img": "https://cdn.civitatis.com/espana/barcelona/guia/sagrada-familia-grid-m.jpg" },
+    { "year": 2004, "city": "Athina", "gold": 10, "silver": 11, "bronze": 11 , "flag": "https://www.countryflags.io/gr/flat/64.png", "img": "https://cdn.britannica.com/66/102266-050-FBDEFCA1/acropolis-city-state-Greece-Athens.jpg"},
+    { "year": 2008, "city": "Beijing", "gold": 8, "silver": 9, "bronze": 10 , "flag": "https://www.countryflags.io/cn/flat/64.png", "img": "https://dam.ngenespanol.com/wp-content/uploads/2019/06/Beijing-china.png"},
+    { "year": 1928, "city": "Amsterdam", "gold": 7, "silver": 6, "bronze": 7 , "flag": "https://www.countryflags.io/nl/flat/64.png", "img": "https://www.holland.com/upload_mm/d/0/7/69550_fullimage_fietsen-amsterdam_1360x.jpg"},
+    {
+      "year": 1932,
+      "city": "Los Angeles",
+      "gold": 12,
+      "silver": 12,
+      "bronze": 12, "flag": "https://www.countryflags.io/us/flat/64.png", "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Los_Angeles%2C_Winter_2016.jpg/1200px-Los_Angeles%2C_Winter_2016.jpg"
+    },
+    { "year": 1948, "city": "London", "gold": 9, "silver": 12, "bronze": 10 , "flag": "https://www.countryflags.io/gb/flat/64.png", "img": "https://www.visitbritain.com/sites/default/files/styles/consumer_campaigns_hero_mobile/public/consumer_destinations/teaser_images/vb34141642_0.jpg?itok=y9YVgBCq"},
+    { "year": 2012, "city": "London", "gold": 8, "silver": 9, "bronze": 11 , "flag": "https://www.countryflags.io/gb/flat/64.png", "img": "https://www.visitbritain.com/sites/default/files/styles/consumer_campaigns_hero_mobile/public/consumer_destinations/teaser_images/vb34141642_0.jpg?itok=y9YVgBCq"},
+    {
+      "year": 1968,
+      "city": "Mexico City",
+      "gold": 3,
+      "silver": 4,
+      "bronze": 9, "flag": "https://www.countryflags.io/mx/flat/64.png", "img": "https://www.nationalgeographic.com/content/dam/travel/commercial/2019/domestic/intercontinental/mexico-city/mexico-city-palacio-bellas-artes.adapt.1900.1.jpg"
+    },
+    { "year": 1976, "city": "Montreal", "gold": 2, "silver": 7, "bronze": 4 , "flag": "https://www.countryflags.io/ca/flat/64.png", "img": "https://www.cerodosbe.com/uploads/s1/95/55/45/5/vista-area-del-puerto-viejo-de-montreal-foto-de-turismo-de-montreal_15_970x597.jpeg"},
+    { "year": 1920, "city": "Antwerpen", "gold": 14, "silver": 6, "bronze": 5 , "flag": "https://www.countryflags.io/be/flat/64.png", "img": "https://lp-cms-production.imgix.net/features/2017/08/shutterstock_557525077-e5345dad0bc0.jpg"},
+    { "year": 1912, "city": "Stockholm", "gold": 5, "silver": 1, "bronze": 2 , "flag": "https://www.countryflags.io/se/flat/64.png", "img": "https://www.travellens.co/content/images/2019/09/stockholm-skyline.jpg"},
+    { "year": 1924, "city": "Paris", "gold": 8, "silver": 3, "bronze": 5 , "flag": "https://www.countryflags.io/fr/flat/64.png", "img": "https://photos.mandarinoriental.com/is/image/MandarinOriental/paris-2017-home?$MO_masthead-property-mobile$"},
+    { "year": 1960, "city": "Roma", "gold": 13, "silver": 10, "bronze": 12 , "flag": "https://www.countryflags.io/it/flat/64.png", "img": "https://www.guruwalk.com/blog/wp-content/uploads/2019/08/que-ver-roma-lugares-imprescindibles.jpg"},
+    { "year": 1964, "city": "Tokyo", "gold": 10, "silver": 10, "bronze": 7 , "flag": "https://www.countryflags.io/jp/flat/64.png", "img": "https://www.jrailpass.com/blog/wp-content/uploads/2018/09/best-manga-anime-locations-japan-1280x720.jpg"},
+    { "year": 1956, "city": "Melbourne", "gold": 8, "silver": 5, "bronze": 8 , "flag": "https://www.countryflags.io/au/flat/64.png", "img": "https://www.gostudyaus.es/wp-content/uploads/2018/10/MEL_header_2-1.jpg"},
+    { "year": 1956, "city": "Stockholm", "gold": 0, "silver": 2, "bronze": 1 , "flag": "https://www.countryflags.io/se/flat/64.png", "img": "https://www.travellens.co/content/images/2019/09/stockholm-skyline.jpg"},
+    { "year": 1952, "city": "Helsinki", "gold": 7, "silver": 9, "bronze": 4 , "flag": "https://www.countryflags.io/fi/flat/64.png", "img": "https://img2.viajar.elperiodico.com/3e/67/0a/helsinki.jpg"},
+    { "year": 1972, "city": "Munich", "gold": 5, "silver": 3, "bronze": 10 , "flag": "https://www.countryflags.io/de/flat/64.png", "img": "https://www.guiadealemania.com/wp-content/uploads/2013/01/Vista-panoramica-de-Munich-760x500.jpg"},
+    { "year": 1908, "city": "London", "gold": 2, "silver": 2, "bronze": 0 , "flag": "https://www.countryflags.io/gb/flat/64.png", "img": "https://www.visitbritain.com/sites/default/files/styles/consumer_campaigns_hero_mobile/public/consumer_destinations/teaser_images/vb34141642_0.jpg?itok=y9YVgBCq"},
+    { "year": 1980, "city": "Moskva", "gold": 8, "silver": 3, "bronze": 4 , "flag": "https://www.countryflags.io/ru/flat/64.png", "img": "https://www.planete-energies.com/sites/default/files/styles/media_full_width_940px/public/thumbnails/image/moscow.jpg?itok=NZd0PpeU"},
+    { "year": 1906, "city": "Athina", "gold": 3, "silver": 5, "bronze": 1 , "flag": "https://www.countryflags.io/gr/flat/64.png", "img": "https://cdn.britannica.com/66/102266-050-FBDEFCA1/acropolis-city-state-Greece-Athens.jpg"},
+    { "year": 1900, "city": "Paris", "gold": 3, "silver": 2, "bronze": 0 , "flag": "https://www.countryflags.io/fr/flat/64.png", "img": "https://media-cdn.tripadvisor.com/media/photo-c/2560x500/17/15/6d/d6/paris.jpg"}
+  ],
+  "top_fencing": [
+    { "gold": 151, "silver": 136, "bronze": 72 },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 1996,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 1996,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 2000,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 2000,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 2004,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 2008,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 2008,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 2012,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Maria Valentina Vezzali",
+      "year": 2012,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giuseppe Delfino",
+      "year": 1952,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giuseppe Delfino",
+      "year": 1956,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Giuseppe Delfino",
+      "year": 1956,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giuseppe Delfino",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giuseppe Delfino",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giuseppe Delfino",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 1992,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 1992,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 1996,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 1996,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 2000,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 2000,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 2004,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Giovanna Trillini",
+      "year": 2008,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    { "name": "Aldo Nadi", "year": 1920, "bronze": 0, "gold": 1, "silver": 0 },
+    { "name": "Aldo Nadi", "year": 1920, "bronze": 0, "gold": 1, "silver": 0 },
+    { "name": "Aldo Nadi", "year": 1920, "bronze": 0, "gold": 0, "silver": 1 },
+    { "name": "Aldo Nadi", "year": 1920, "bronze": 0, "gold": 1, "silver": 0 },
+    {
+      "name": "Alberto Pellegrino",
+      "year": 1956,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Alberto Pellegrino",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Alberto Pellegrino",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Alberto Pellegrino",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Elisa Di Francisca",
+      "year": 2012,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Elisa Di Francisca",
+      "year": 2012,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Elisa Di Francisca",
+      "year": 2016,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Francesca Bortolozzi-Borella",
+      "year": 1988,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Francesca Bortolozzi-Borella",
+      "year": 1992,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Francesca Bortolozzi-Borella",
+      "year": 1996,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Andrea Cassar",
+      "year": 2004,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Andrea Cassar",
+      "year": 2004,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Andrea Cassar",
+      "year": 2012,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    }
+  ],
+  "top_cycling": [
+    { "gold": 70, "silver": 34, "bronze": 20 },
+    {
+      "name": "Sergio Bianchetto",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Sergio Bianchetto",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Sergio Bianchetto",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Antonella Bellutti",
+      "year": 1996,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Antonella Bellutti",
+      "year": 2000,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Paola Pezzo",
+      "year": 1996,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Paola Pezzo",
+      "year": 2000,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Sante Giovanni Gaiardoni",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Sante Giovanni Gaiardoni",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Franco Testa",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Franco Testa",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Giovanni Pettenella",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giovanni Pettenella",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    { "name": "Livio Trap", "year": 1960, "bronze": 0, "gold": 0, "silver": 1 },
+    { "name": "Livio Trap", "year": 1960, "bronze": 0, "gold": 1, "silver": 0 },
+    {
+      "name": "Pierfranco Vianelli",
+      "year": 1968,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Pierfranco Vianelli",
+      "year": 1968,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    }
+  ],
+  "top_gymnastics": [
+    { "gold": 68, "silver": 18, "bronze": 14 },
+    {
+      "name": "Franco Menichelli",
+      "year": 1960,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Franco Menichelli",
+      "year": 1960,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Franco Menichelli",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Franco Menichelli",
+      "year": 1964,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Franco Menichelli",
+      "year": 1964,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Jury Dimitri Chechi",
+      "year": 1996,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Jury Dimitri Chechi",
+      "year": 2004,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Igor Cassina",
+      "year": 2004,
+      "bronze": 0,
+      "gold": 1,
+      "silver": 0
+    },
+    {
+      "name": "Giovanni Carminucci",
+      "year": 1960,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Giovanni Carminucci",
+      "year": 1960,
+      "bronze": 0,
+      "gold": 0,
+      "silver": 1
+    },
+    {
+      "name": "Angelo Vicardi",
+      "year": 1960,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Matteo Morandi",
+      "year": 2012,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    },
+    {
+      "name": "Pasquale Carminucci",
+      "year": 1960,
+      "bronze": 1,
+      "gold": 0,
+      "silver": 0
+    }
+  ],
+  "medals_by_sport": [
+    { "sport": "Fencing", "gold": 151, "silver": 136, "bronze": 72 },
+    { "sport": "Cycling", "gold": 70, "silver": 34, "bronze": 20 },
+    { "sport": "Gymnastics", "gold": 68, "silver": 18, "bronze": 14 },
+    { "sport": "Water Polo", "gold": 46, "silver": 37, "bronze": 37 },
+    { "sport": "Rowing", "gold": 36, "silver": 58, "bronze": 51 },
+    { "sport": "Athletics", "gold": 19, "silver": 18, "bronze": 35 },
+    { "sport": "Shooting", "gold": 16, "silver": 16, "bronze": 11 },
+    { "sport": "Boxing", "gold": 15, "silver": 15, "bronze": 17 },
+    { "sport": "Football", "gold": 14, "silver": 0, "bronze": 34 },
+    { "sport": "Equestrianism", "gold": 10, "silver": 16, "bronze": 20 },
+    { "sport": "Canoeing", "gold": 8, "silver": 9, "bronze": 6 },
+    { "sport": "Wrestling", "gold": 7, "silver": 4, "bronze": 10 },
+    { "sport": "Sailing", "gold": 7, "silver": 2, "bronze": 10 },
+    { "sport": "Art Competitions", "gold": 5, "silver": 7, "bronze": 2 },
+    { "sport": "Swimming", "gold": 5, "silver": 5, "bronze": 17 },
+    { "sport": "Weightlifting", "gold": 5, "silver": 5, "bronze": 5 },
+    { "sport": "Archery", "gold": 4, "silver": 6, "bronze": 5 },
+    { "sport": "Judo", "gold": 4, "silver": 4, "bronze": 7 },
+    { "sport": "Modern Pentathlon", "gold": 4, "silver": 4, "bronze": 5 },
+    { "sport": "Diving", "gold": 3, "silver": 6, "bronze": 3 },
+    { "sport": "Taekwondo", "gold": 1, "silver": 1, "bronze": 1 },
+    { "sport": "Volleyball", "gold": 0, "silver": 36, "bronze": 36 },
+    { "sport": "Basketball", "gold": 0, "silver": 24, "bronze": 0 },
+    { "sport": "Rhythmic Gymnastics", "gold": 0, "silver": 6, "bronze": 6 },
+    { "sport": "Beach Volleyball", "gold": 0, "silver": 2, "bronze": 0 },
+    { "sport": "Tennis", "gold": 0, "silver": 0, "bronze": 1 }
+  ]
 }
