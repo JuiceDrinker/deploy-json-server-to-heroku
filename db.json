@@ -1,28 +1,3 @@
 {
-  "posts": [
-    { "id": 1, "postId": 10, "title": "Hello World", "author": "bob" },
-    { "id": 2, "postId": 22, "title": "Python is D Best", "author": "sarah" },
-    { "id": 3, "postId": 28, "title": "Show me the data", "author": "john" },
-    { "id": 4, "postId": 31, "title": "Hello Friend!", "author": "anna" },
-    { "id": 5, "postId": 58, "title": "Do something", "author": "hana" }
-  ],
-  "comments": [
-    { "id": 1, "index": 12, "body": "some comment 1" },
-    { "id": 2, "index": 3, "body": "some comment 2" },
-    { "id": 3, "index": 23, "body": "some comment 3" },
-    { "id": 4, "index": 43, "body": "some comment 4" },
-    { "id": 5, "index": 56, "body": "some comment 5" },
-    { "id": 6, "index": 10, "body": "some comment 6" },
-    { "id": 7, "index": 34, "body": "some comment 7" },
-    { "id": 8, "index": 43, "body": "some comment 8" },
-    { "id": 9, "index": 56, "body": "some comment 9" },
-    { "id": 10, "index": 80, "body": "some comment 10" }
-  ],
-  "profiles": [
-    { "id": 1, "index": 45, "firstName": "Bob", "lastName": "Rogers" },
-    { "id": 2, "index": 38, "firstName": "Marco", "lastName": "Gallardi" },
-    { "id": 3, "index": 56, "firstName": "John", "lastName": "Rose" },
-    { "id": 4, "index": 3, "firstName": "Sarah", "lastName": "Tomasz" },
-    { "id": 5, "index": 23, "firstName": "Anna", "lastName": "Kowalowski" }
-  ]
+  "medals_by_year":[{"Year":2016,"City":"Rio de Janeiro","Gold":8,"Silver":12,"Bronze":8},{"Year":1936,"City":"Berlin","Gold":9,"Silver":13,"Bronze":5},{"Year":1988,"City":"Seoul","Gold":6,"Silver":4,"Bronze":4},{"Year":1996,"City":"Atlanta","Gold":13,"Silver":10,"Bronze":12},{"Year":2000,"City":"Sydney","Gold":13,"Silver":8,"Bronze":13},{"Year":1984,"City":"Los Angeles","Gold":14,"Silver":6,"Bronze":12},{"Year":1992,"City":"Barcelona","Gold":6,"Silver":5,"Bronze":8},{"Year":2004,"City":"Athina","Gold":10,"Silver":11,"Bronze":11},{"Year":2008,"City":"Beijing","Gold":8,"Silver":9,"Bronze":10},{"Year":1928,"City":"Amsterdam","Gold":7,"Silver":6,"Bronze":7},{"Year":1932,"City":"Los Angeles","Gold":12,"Silver":12,"Bronze":12},{"Year":1948,"City":"London","Gold":9,"Silver":12,"Bronze":10},{"Year":2012,"City":"London","Gold":8,"Silver":9,"Bronze":11},{"Year":1968,"City":"Mexico City","Gold":3,"Silver":4,"Bronze":9},{"Year":1976,"City":"Montreal","Gold":2,"Silver":7,"Bronze":4},{"Year":1920,"City":"Antwerpen","Gold":14,"Silver":6,"Bronze":5},{"Year":1912,"City":"Stockholm","Gold":5,"Silver":1,"Bronze":2},{"Year":1924,"City":"Paris","Gold":8,"Silver":3,"Bronze":5},{"Year":1960,"City":"Roma","Gold":13,"Silver":10,"Bronze":12},{"Year":1964,"City":"Tokyo","Gold":10,"Silver":10,"Bronze":7},{"Year":1956,"City":"Melbourne","Gold":8,"Silver":5,"Bronze":8},{"Year":1956,"City":"Stockholm","Gold":0,"Silver":2,"Bronze":1},{"Year":1952,"City":"Helsinki","Gold":7,"Silver":9,"Bronze":4},{"Year":1972,"City":"Munich","Gold":5,"Silver":3,"Bronze":10},{"Year":1908,"City":"London","Gold":2,"Silver":2,"Bronze":0},{"Year":1980,"City":"Moskva","Gold":8,"Silver":3,"Bronze":4},{"Year":1906,"City":"Athina","Gold":3,"Silver":5,"Bronze":1},{"Year":1900,"City":"Paris","Gold":3,"Silver":2,"Bronze":0}]
 }
